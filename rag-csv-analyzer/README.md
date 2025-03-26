@@ -61,12 +61,6 @@ The system can answer questions like:
 - Processes only first 10 rows for quick analysis
 - Optimized for CPU usage with minimal memory footprint
 
-## Deployment
-The application is configured for Heroku deployment.
-```bash
-git push heroku main
-```
-
 ## Limitations
 - Analysis limited to first 10 rows for performance
 - Responses are concise due to lightweight model
